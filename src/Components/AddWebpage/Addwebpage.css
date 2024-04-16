@@ -1,0 +1,18 @@
+.dashboard-container button {
+  border-radius: 30px;
+  padding: 9px 14px 9px 14px;
+  background-image: linear-gradient(
+    to right,
+    rgba(218, 36, 106, 1),
+    rgba(33, 88, 208, 1)
+  );
+  font-size: 18px;
+}
+
+table tr td {
+  text-align: center;
+}
+
+table th {
+    padding-bottom: 20px;
+}

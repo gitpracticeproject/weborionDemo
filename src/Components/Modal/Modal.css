@@ -1,0 +1,38 @@
+.modal-container {
+  max-width: 1057px;
+  max-height: 772px;
+  border-radius: 30px;
+  margin: 0 auto;
+}
+
+.url-modal-block {
+  background: rgba(238, 240, 247, 1);
+}
+
+.url-modal-block span {
+  padding: 10px 16px 10px 16px;
+}
+
+.font-roboto {
+  font-family: "Roboto", "sans-serif";
+}
+
+.below-heading-block {
+  max-width: 897px;
+}
+
+.active-btn {
+  border-radius: 500px;
+  background: rgba(33, 88, 208, 1);
+}
+
+.button-block button {
+  border-radius: 30px;
+  padding: 12px 24px 12px 24px;
+  background-image: linear-gradient(
+    to right,
+    rgba(218, 36, 106, 1),
+    rgba(33, 88, 208, 1)
+  );
+  font-size: 18px;
+}

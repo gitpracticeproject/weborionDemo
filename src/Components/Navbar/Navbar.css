@@ -1,0 +1,41 @@
+header {
+  height: 86px;
+  box-shadow: 0px 10px 70px -11px rgba(9, 32, 70, 0.11) !important;
+  width: calc(100% - 232px);
+}
+
+header div {
+  max-width: 1420px;
+}
+
+header form {
+  padding-left: 15px;
+}
+
+header input {
+  height: 45px;
+  width: 473px;
+  background-color: rgba(238, 240, 247, 1);
+  background-position: 16px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 50px;
+  background-image: url("../../Images/search_bar_icon.svg");
+}
+
+header .user-block > div {
+  border-left: 1px solid rgba(198, 206, 229, 0.3);
+  gap: 15px;
+  padding-left: 10px;
+}
+
+.font-inter {
+  font-family: "Inter", "sans-serif";
+}
+
+.font-roboto {
+  font-family: "Roboto", "sans-serif";
+}
+
+.pt-18 {
+  padding-top: 18px;
+}
